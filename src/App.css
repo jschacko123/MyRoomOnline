@@ -1,0 +1,14 @@
+
+button{
+  background-color: red;
+  padding:10px;
+  border: none;
+  border-radius: 5px;
+  font-weight:bold;
+  margin-left:40%;
+}
+.id{
+  padding: 10px;
+  border-radius:5px;
+  border: solid;
+}
